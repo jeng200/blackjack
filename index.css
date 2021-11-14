@@ -2,3 +2,37 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-image: url(/img/engin-akyurt-HEMIBJ8QQuA-unsplash.jpg);
+  background-size: cover;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+h1 {
+  font-size: 70px;
+  color: goldenrod;
+}
+
+p {
+  font-size: 50px;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: green;
+  background: goldenrod;
+  width: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bolder;
+  border: none;
+  border-radius: 2px;
+  font-size: 17px;
+}
